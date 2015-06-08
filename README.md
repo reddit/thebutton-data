@@ -1,5 +1,5 @@
 # thebutton-data
-The csv file contains the press history for [/r/thebutton](https:/www.reddit.com/r/thebutton).
+The csv file contains the press history for [/r/thebutton](https://www.reddit.com/r/thebutton).
 
 The csv has two columns:
 
