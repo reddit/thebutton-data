@@ -1,9 +1,11 @@
 # thebutton-data
 The csv file contains the press history for [/r/thebutton](https://www.reddit.com/r/thebutton).
 
-The csv has two columns:
+The csv has three columns:
 
 `press time` the date and time at which the press happened
+
+`flair` the timer value the user got as flair
 
 `outage press` whether the press was an automatic press during a site outage to keep the button alive
 
