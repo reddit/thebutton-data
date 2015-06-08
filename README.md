@@ -1,7 +1,7 @@
 # thebutton-data
 The csv file contains the press history for [/r/thebutton](https://www.reddit.com/r/thebutton).
 
-The csv has three columns:
+The csv has four columns:
 
 `press time` the date and time at which the press happened
 
