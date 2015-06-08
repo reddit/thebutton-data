@@ -7,4 +7,4 @@ The csv has two columns:
 
 `outage press` whether the press was an automatic press during a site outage to keep the button alive
 
-Outage presses never incurred at a time when the button was truly at risk of expiring, but if you're doing real scientific analysis on these presses, you may choose to discount these presses or otherwise make a note of them.
+Outage presses were relatively few and never incurred at a time when the button was truly at risk of expiring, but if you're doing real scientific analysis on this data, you may choose to discount these presses or otherwise make a note of them.
